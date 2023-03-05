@@ -1,0 +1,23 @@
+[
+  {
+    "studentFullname": "Elena Popova",
+    "studentEmail": "elenapendevska@hotmail.com",
+    "studentPassword": "hdhdksf25",
+    "id": "14034e55-8efd-4d08-adb0-dea11f6ce574",
+    "event": true
+  },
+  {
+    "studentFullname": "Petko Petkov",
+    "studentEmail": "petkopetkov@gmail.com",
+    "studentPassword": "fwerfr33",
+    "id": "83d493ab-fa9b-4ef5-89dd-56fcdc594e1b",
+    "event": true
+  },
+  {
+    "studentFullname": "Trajko Trajkov",
+    "studentEmail": "trajkotrajkov@gmail.com",
+    "studentPassword": "55rgerg",
+    "id": "8249543c-85f5-4bfb-b81e-b7442078549b",
+    "event": true
+  }
+]
