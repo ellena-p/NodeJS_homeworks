@@ -1,0 +1,12 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
