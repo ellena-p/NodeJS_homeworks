@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Anna Karenina",
+    "price": 16,
+    "rating": "4.75",
+    "description": "Described by William Faulkner as the best novel ever written and by Fyodor Dostoevsky as “flawless,” Anna Karenina tells of the doomed love affair between the sensuous and rebellious Anna and the dashing officer, Count Vronsky.",
+    "category": "realism",
+    "isInStock": true
+  },
+  {
+    "id": "2",
+    "name": "The Great Gatsby",
+    "price": 18,
+    "rating": "4.13",
+    "description": "The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted 'gin was the national drink and sex the national obsession', it is an exquisitely crafted tale of America in the 1920s.",
+    "category": "tragedy",
+    "isInStock": true
+  },
+  {
+    "id": "3",
+    "name": "The Lovely Bones",
+    "price": 13,
+    "rating": "3.85",
+    "description": "Tthe story of Susie Salmon, who is adjusting to her new home in heaven, a place that is not at all what she expected, even as she is watching life on earth continue without her -- her friends trading rumors about her disappearance, her killer trying to cover his tracks, her grief-stricken family unraveling.",
+    "category": "tragedy",
+    "isInStock": false
+  },
+  {
+    "id": "4",
+    "name": "The Notebook",
+    "price": 15,
+    "rating": "4.30",
+    "description": "The Notebook is an achingly tender story about the enduring power of love, a story of miracles that will stay with you forever.",
+    "category": "romance",
+    "isInStock": true
+  },
+  {
+    "id": "079604fd-1b9c-4193-8d91-48fed77b6503",
+    "name": "Pride and Prejudice",
+    "price": 17,
+    "rating": "4.45",
+    "description": "The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
+    "category": "romance",
+    "isInStock": false
+  },
+  {
+    "id": "8dfe201d-e4c8-482d-8d3e-ccd4fbc06980",
+    "name": "Oliver Twist",
+    "price": 11,
+    "rating": "3.89",
+    "description": "The novel follows the journey of the titular character, Oliver Twist.",
+    "category": "realism",
+    "isInStock": true
+  }
+]
